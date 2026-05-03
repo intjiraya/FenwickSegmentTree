@@ -1,7 +1,8 @@
-#ifndef FENWICKTREE 
+#ifndef FENWICKTREE
 #define FENWICKTREE
 
 #include <stdio.h>
+#include <stdlib.h>
 
 typedef struct
 {

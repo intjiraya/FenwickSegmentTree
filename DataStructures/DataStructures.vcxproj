@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Run.c" />
+    <ClCompile Include="Main.c" />
     <ClCompile Include="FenwickTree.c" />
     <ClCompile Include="SegmentTree.c" />
   </ItemGroup>
